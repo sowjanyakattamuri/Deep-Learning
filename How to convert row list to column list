@@ -1,0 +1,4 @@
+y_train = zeros(m,output_layer_size);
+for i=1:output_layer_size
+   y_train(find(y==i),i)=1;
+end
