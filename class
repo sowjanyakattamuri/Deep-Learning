@@ -1,0 +1,7 @@
+# class python():
+#     a=3
+#     print(a)
+class python():
+    a=2
+    def output()
+        print(a)
