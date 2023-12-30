@@ -1,0 +1,6 @@
+b={'a':1, 'c':'efg'}
+print(b['a'])
+b.update({23:23})
+print(b)
+for i in b.values():
+    print(i)
