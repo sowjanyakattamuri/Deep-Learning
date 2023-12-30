@@ -1,0 +1,16 @@
+# def fun():
+# #     print('thois is fucn')
+# # fun()
+# def fun(a,b,c):
+#     print('this',a,b,c)
+# fun(1,2,3)
+# def outer():
+#     print('outer fuc')
+#     def fucn():
+#         print ('inner')
+#     fucn()
+# outer()
+def add(a,b):
+    print(a+b)
+def sub(a,b):
+    print(a-b)
