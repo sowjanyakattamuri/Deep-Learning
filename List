@@ -1,0 +1,14 @@
+# # v=[2,"r",5,'y',7]
+# # print(v)
+# # print(v[-1])
+ v=[2,"r",5,'y',7]
+# # v.append(9)
+# # print(v)
+# print(v.append(10))
+# print(v.count(2))
+# v.remove(5)
+# print(v)
+# v.pop(4)
+# print(v)
+v.insert(0,4)
+print(v)
